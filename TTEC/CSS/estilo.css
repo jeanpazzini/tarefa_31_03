@@ -1,0 +1,59 @@
+.container-fluid{
+    background-color: #0007A0;
+    height: 80px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;    
+}
+
+.container1{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.container3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.ITBConteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.ITBTurismo{
+
+    color: #0007A0;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.texto{
+    color: #0007A0;
+    font-size: 35px;
+
+}
+
+.SB{
+    color: aliceblue;
+    background-color: #0007A0;
+    border-radius: 10px;
+    height: 60px;
+    width: 300px;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
